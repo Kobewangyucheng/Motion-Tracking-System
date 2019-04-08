@@ -1,0 +1,1 @@
+"./HAL_FLASH.obj" "./main.obj" "./mpu9150.obj" "./mpu_uart.obj" "./msp430_clock.obj" "./msp430_i2c.obj" "./F5xx_F6xx_Core_Lib/HAL_PMAP.obj" "./F5xx_F6xx_Core_Lib/HAL_PMM.obj" "./F5xx_F6xx_Core_Lib/HAL_TLV.obj" "./F5xx_F6xx_Core_Lib/HAL_UCS.obj" "../lnk_msp430f5529.cmd" -llibmath.a -llibc.a 
